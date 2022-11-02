@@ -1,4 +1,4 @@
-Introduction:
+  #Introduction:
 
 This is the first iteration of my to-do list/mood tracker on Google Sheets. 
 The code in "Sheets_app_script" is google apps script code which is used in conjunction with 
