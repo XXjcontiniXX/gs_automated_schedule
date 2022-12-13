@@ -11,9 +11,6 @@ some data from the current week to another sheet for tracking and replaces the c
 In essence clicking the button just moves the sheduler one week ahead while also storing some of the past week's data.
 
 
-/////
-/////
-
 
 However as previously mentioned the plain sheet still contains many automated features such as:
 
