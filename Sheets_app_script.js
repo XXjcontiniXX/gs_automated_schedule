@@ -29,7 +29,6 @@ function pushBlueDates() {
   // if normal 
   } else {
       for (let i = 8; i < 42; i+=7){
-        console.log(i)
         if (destination.getRange(lastRow, i).isBlank() == true){
           blue_notes.copyTo(destination.getRange(lastRow - 16, i));
           break;
