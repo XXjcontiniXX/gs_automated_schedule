@@ -26,8 +26,6 @@ number highlighted in green while to-do lists with less than 50% completion will
 4. And the same goes for "organizational tasks" but instead this percentage is determined by 
 calculating the percentage of to-do list items in the range 5-7 not the entire to-do list.
 
-////
-////
 
 # Instructions:
 
