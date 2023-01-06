@@ -1,4 +1,4 @@
-# Introduction:
+# Introduction
 
 This is the first iteration of my to-do list/mood tracker on Google Sheets. 
 The code in "Sheets_app_script" is google apps script code which is used in conjunction with 
@@ -27,7 +27,7 @@ number highlighted in green while to-do lists with less than 50% completion will
 calculating the percentage of to-do list items in the range 5-7 not the entire to-do list.
 
 
-# Instructions:
+# Instructions
 
 1. Open the google sheets link.
 
