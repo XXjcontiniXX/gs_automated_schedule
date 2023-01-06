@@ -4,7 +4,7 @@ This is the first iteration of my to-do list/mood tracker on Google Sheets.
 The code in "Sheets_app_script" is google apps script code which is used in conjunction with 
 the sheet below.
 
-https://docs.google.com/spreadsheets/d/1lX7YRxbwzXpgU1lHnHGihWBysvHp2bqpyT0y1qSIBJc/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/18JzQOYf13z-F06T0xhrEYGewd8FhOLB6Zn2evN2c-mA/edit?usp=sharing
 
 The sheet by itself still has many automated features. All that the code does is create a new button aptly named "Next Week" which pushes 
 some data from the current week to another sheet for tracking and replaces the current (blue) week with the coming week (green week). 
