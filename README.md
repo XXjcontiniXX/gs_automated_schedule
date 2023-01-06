@@ -8,7 +8,7 @@ https://docs.google.com/spreadsheets/d/1lX7YRxbwzXpgU1lHnHGihWBysvHp2bqpyT0y1qSI
 
 The sheet by itself still has many automated features. All that the code does is create a new button aptly named "Next Week" which pushes 
 some data from the current week to another sheet for tracking and replaces the current (blue) week with the coming week (green week). 
-In essence clicking the button just moves the sheduler one week ahead while also storing some of the past week's data.
+To summarize, clicking the "Next Week" button moves the current (blue) week's data to storage and shifts the coming (green) week to be the current week.
 
 
 
@@ -21,7 +21,7 @@ However as previously mentioned the plain sheet still contains many automated fe
 3. Depending on the completion percentage of a day's to-do list the
 "percentage completed" number will change colors to describe the success or failure 
 of completing a day's list. For example, to-do lists with greater than 50% completion will boast a "percentage completed" 
-number highlighted in green while to-do lists with less than 50% completion will boast an orange "percentage completed" number)
+number highlighted in green while to-do lists with less than 50% completion will boast an orange "percentage completed" number.
 
 4. And the same goes for "organizational tasks" but instead this percentage is determined by 
 calculating the percentage of to-do list items in the range 5-7 not the entire to-do list.
@@ -34,3 +34,8 @@ calculating the percentage of to-do list items in the range 5-7 not the entire t
 2. Select file and click "Make a copy".
 
 3. Open the new copy of the sheet which you now have edit access to and fill in the to-do list with whatever you'd like :)
+
+### Drawbacks and bugs
+1. The green week's date does not automatically change dates upon clicking _Next Week_, but has to be manually updated.
+
+2. Changing the amount of checkboxes will result in the _Next Week_ button not working properly. Changing the format will cause issues. 
